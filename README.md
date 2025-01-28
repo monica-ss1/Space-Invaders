@@ -4,6 +4,10 @@ A recreation of the Space Invaders game, developed in Python using Pygame. This 
 # Demo
 
 
+https://github.com/user-attachments/assets/fa3d5956-1917-43ad-aff8-5cff0ee5773a
+
+
+
 # Features
 Custom Visuals:
 
